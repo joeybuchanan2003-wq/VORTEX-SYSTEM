@@ -1,0 +1,1 @@
+enum GameGenre { fantasy, sciFi, modern }
